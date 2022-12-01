@@ -1,3 +1,2 @@
-touch up_to_date
-less up_to_date
-vi
+git add . up_to_date
+git pull
